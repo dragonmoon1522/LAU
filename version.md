@@ -1,22 +1,18 @@
-# Historial de Versiones – Licencia de Accesibilidad Universal (LAU)
+## Cambios en la Licencia de Accesibilidad Universal
 
-📌 Autor: Katherine Vargas  
-📅 Última actualización: 2025-07-01  
+### 1.1 – Julio 2025
 
----
-
-## 📌 Versión 1.0 – Abril 2025
-
-- Publicación inicial de la Licencia de Accesibilidad Universal.
-- Redacción original en español.
-- Estructura basada en principios éticos de accesibilidad, inclusión y derecho a la autoría.
+- Se reestructura el texto completo y se agrega compatibilidad con otras licencias.
+- Se aclara el tipo de contenidos aplicables: software, interfaces, medios, formatos, etc.
+- Se detalla que no aplica a obras artísticas que no estén orientadas a la accesibilidad.
+- Se agrega una versión en inglés para difusión internacional.
+- Se mantiene el espíritu del preámbulo original como compromiso ético.
 
 ---
 
-## 📌 Versión 1.1 – Julio 2025
+### 1.0 – Abril 2025
 
-- Redacción mejorada de cláusulas y aclaraciones legales.
-- Se añadió compatibilidad formal con licencias abiertas como CC y GPL (siempre que no contradigan los principios de la LAU).
-- Se agregó versión en inglés en carpeta `/en/`.
-- Se clarificó la aplicación exclusiva a desarrollos que promuevan la accesibilidad (no a obras no relacionadas).
-- Inclusión de ejemplos de uso permitido y restricciones.
+- Versión inicial pública.
+- Aplicación a proyectos tecnológicos inclusivos.
+- Define reglas para uso personal, comunitario y comercial.
+- Establece el manifiesto ético y reconocimiento de autoría.
