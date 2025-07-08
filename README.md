@@ -1,37 +1,63 @@
-## KathWare LAU
+## Licencia de Accesibilidad Universal (LAU) — Proyecto KathWare
 
-📌 **Autor:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
+📌 **Autora:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
 📅 **Última actualización:** 2025-07-04  
+
 ---
 
 ### 📌 **Descripción del Proyecto**
 
-Este repositorio contiene la **Licencia de Accesibilidad Universal (LAU)** desarrollada por KathWare, en su versión 1.1.  
-La LAU fue creada para proteger desarrollos accesibles, tanto de software como de contenido inclusivo, garantizando el acceso libre, la atribución justa y el control ético sobre su uso.
+Este repositorio contiene la **Licencia de Accesibilidad Universal (LAU)** en su versión 1.1, desarrollada como una herramienta legal y ética para proteger todo desarrollo que promueva la **accesibilidad universal**.
 
-- Aplicable a software, herramientas, interfaces, textos, imágenes, audios o videos con fines de accesibilidad.  
-- Compatible con otras licencias libres (como CC o GPL), siempre que no contradigan sus principios.  
-- Incluye versiones en español e inglés, y un historial completo de cambios.
+La LAU garantiza:
+
+- El **acceso libre** para personas con discapacidad o necesidades específicas.
+- El **reconocimiento justo** a las autoras de desarrollos accesibles.
+- El **control ético** sobre usos comerciales, derivados o maliciosos.
+
+Esta licencia:
+
+- Se aplica a **software, interfaces, contenidos multimedia, escritos y más**, siempre que estén orientados a la accesibilidad.
+- Es **compatible con licencias libres** como GPLv3 y Creative Commons, siempre que no contradigan sus principios.
+- Está disponible en **español e inglés**, con un historial de versiones y actualizaciones públicas.
 
 ---
 
-### 🛠️ Estructura del Repositorio
+### 🛠️ Estructura del repositorio
 
-- `es/lau.md`: Versión en español (actual 1.1)  
-- `en/lau.md`: Versión traducida al inglés  
-- `version.md`: Historial de cambios de cada versión de la licencia
+- `es/lau.md` → Versión en español (actual: **v1.1**)  
+- `en/lau.md` → Traducción al inglés  
+- `version.md` → Historial completo de cambios de la LAU  
+- `manifesto.md` → Justificación y manifiesto ético que acompaña la licencia  
+- `lau-v1.1.pdf` → Versión oficial en PDF para su distribución y validación legal  
 
 ---
 
-**Este contenido está bajo la propia Licencia de Accesibilidad Universal 1.1.**  
-Más info: [https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
+### 📚 Licencias complementarias
+
+Este repositorio también declara compatibilidad con:
+
+- [GPLv3 (GNU General Public License)](https://www.gnu.org/licenses/gpl-3.0.html)
+- [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> La LAU actúa como **licencia primaria**, y las demás solo aplican si no contradicen su texto.
+
+---
+
+### 🧾 Licencia de este repositorio
+
+**Este contenido está licenciado bajo la propia Licencia de Accesibilidad Universal (LAU) — Versión 1.1.**  
+Más información oficial en:  
+🔗 [https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
 
 ---
 
 ### ℹ️ Quick Note (English)
 
-This repository contains the **Universal Accessibility License (LAU)**, created by Katherine Vargas (KathWare).  
-It is intended to protect accessible and inclusive developments—software, content, or tools—ensuring free access, fair attribution, and ethical use.  
-The license is available in both Spanish and English. Please refer to the `lau.md` file in your preferred language.
+This repository contains the **Universal Accessibility License (LAU)** — version 1.1, authored by Katherine Vargas (KathWare).  
+It protects accessible and inclusive creations — software, media, or documents — ensuring **free access**, **fair attribution**, and **ethical oversight**.  
+Available in **Spanish and English**, including full version history and a companion manifesto.
+
+> For more, visit: [https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
 
 ---
