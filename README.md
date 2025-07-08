@@ -1,11 +1,11 @@
 ## Licencia de Accesibilidad Universal (LAU) — Proyecto KathWare
 
-📌 **Autora:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
-📅 **Última actualización:** 2025-07-04  
+**Autora:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
+**Última actualización:** 2025-07-04  
 
 ---
 
-### 📌 **Descripción del Proyecto**
+### **Descripción del Proyecto**
 
 Este repositorio contiene la **Licencia de Accesibilidad Universal (LAU)** en su versión 1.1, desarrollada como una herramienta legal y ética para proteger todo desarrollo que promueva la **accesibilidad universal**.
 
@@ -23,17 +23,17 @@ Esta licencia:
 
 ---
 
-### 🛠️ Estructura del repositorio
+### 🛠Estructura del repositorio
 
-- `es/lau.md` → Versión en español (actual: **v1.1**)  
-- `en/lau.md` → Traducción al inglés  
-- `version.md` → Historial completo de cambios de la LAU  
-- `manifesto.md` → Justificación y manifiesto ético que acompaña la licencia  
-- `lau-v1.1.pdf` → Versión oficial en PDF para su distribución y validación legal  
+- `es/lau.md` Versión en español (actual: **v1.1**)  
+- `en/lau.md` Traducción al inglés  
+- `version.md` Historial completo de cambios de la LAU  
+- `manifesto.md` Justificación y manifiesto ético que acompaña la licencia  
+- `lau-v1.1.pdf` Versión oficial en PDF para su distribución y validación legal  
 
 ---
 
-### 📚 Licencias complementarias
+### Licencias complementarias
 
 Este repositorio también declara compatibilidad con:
 
@@ -44,15 +44,15 @@ Este repositorio también declara compatibilidad con:
 
 ---
 
-### 🧾 Licencia de este repositorio
+### Licencia de este repositorio
 
 **Este contenido está licenciado bajo la propia Licencia de Accesibilidad Universal (LAU) — Versión 1.1.**  
 Más información oficial en:  
-🔗 [https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
+[https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
 
 ---
 
-### ℹ️ Quick Note (English)
+### ℹQuick Note (English)
 
 This repository contains the **Universal Accessibility License (LAU)** — version 1.1, authored by Katherine Vargas (KathWare).  
 It protects accessible and inclusive creations — software, media, or documents — ensuring **free access**, **fair attribution**, and **ethical oversight**.  
