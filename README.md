@@ -59,5 +59,3 @@ It protects accessible and inclusive creations — software, media, or documents
 Available in **Spanish and English**, including full version history and a companion manifesto.
 
 > For more, visit: [https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
-
----
