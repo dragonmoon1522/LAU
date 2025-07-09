@@ -23,7 +23,7 @@ Esta licencia:
 
 ---
 
-### 🛠Estructura del repositorio
+### Estructura del repositorio
 
 - `es/lau.md` Versión en español (actual: **v1.1**)  
 - `en/lau.md` Traducción al inglés  
