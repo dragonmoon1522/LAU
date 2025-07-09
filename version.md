@@ -5,7 +5,7 @@
 
 ---
 
-### 🗓Versión 1.1 — Julio 2025
+### **Versión 1.1.0 2025-07-08**
 
 - Se reestructura el texto completo y se agrega compatibilidad con otras licencias.
 - Se aclara el tipo de contenidos aplicables: software, interfaces, medios, formatos, etc.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🗓Versión 1.0 — Abril 2025
+### **Versión 1.0.0 2025-04-27**
 
 - Versión inicial pública.
 - Aplicación a proyectos tecnológicos inclusivos.
