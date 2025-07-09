@@ -1,4 +1,4 @@
-## Licencia de Accesibilidad Universal (LAU) — Proyecto KathWare
+## Licencia de Accesibilidad Universal (LAU)
 
 **Autora:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
 **Última actualización:** 2025-07-04  
