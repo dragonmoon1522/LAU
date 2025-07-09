@@ -52,7 +52,7 @@ Más información oficial en:
 
 ---
 
-### ℹQuick Note (English)
+### Quick Note (English)
 
 This repository contains the **Universal Accessibility License (LAU)** — version 1.1, authored by Katherine Vargas (KathWare).  
 It protects accessible and inclusive creations — software, media, or documents — ensuring **free access**, **fair attribution**, and **ethical oversight**.  
