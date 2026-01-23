@@ -1,5 +1,5 @@
 # Universal Accessibility License (LAU)  
-**Version 1.1 – July 2025**  
+**Version 1.2 – July 2025**  
 Author: Katherine Vargas – [https://kathware.com.ar](https://kathware.com.ar)
 
 ---

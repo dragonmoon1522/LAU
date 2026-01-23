@@ -1,5 +1,5 @@
 # Licencia de Accesibilidad Universal (LAU)  
-**Versión 1.1 – Julio 2025**  
+**Versión 1.2 – Julio 2025**  
 Autora: Katherine Vargas – [https://kathware.com.ar](https://kathware.com.ar)
 
 ---
