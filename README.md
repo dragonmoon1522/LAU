@@ -1,61 +1,99 @@
 ## **Licencia de Accesibilidad Universal (LAU)**
 
 **Autora:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
-**Última actualización:** 2025-07-04  
+**Última actualización:** 2026-03-29  
 
 ---
 
 ### **Descripción del Proyecto**
 
-Este repositorio contiene la **Licencia de Accesibilidad Universal (LAU)** en su versión 1.1, desarrollada como una herramienta legal y ética para proteger todo desarrollo que promueva la **accesibilidad universal**.
+Este repositorio contiene la **Licencia de Accesibilidad Universal (LAU)** en su versión **1.3**, desarrollada como una herramienta legal y ética para proteger el desarrollo de tecnologías accesibles.
 
-La LAU garantiza:
-
-- El **acceso libre** para personas con discapacidad o necesidades específicas.
-- El **reconocimiento justo** a las autoras de desarrollos accesibles.
-- El **control ético** sobre usos comerciales, derivados o maliciosos.
-
-Esta licencia:
-
-- Se aplica a **software, interfaces, contenidos multimedia, escritos y más**, siempre que estén orientados a la accesibilidad.
-- Es **compatible con licencias libres** como GPLv3 y Creative Commons, siempre que no contradigan sus principios.
-- Está disponible en **español e inglés**, con un historial de versiones y actualizaciones públicas.
+La LAU no es solo una licencia: es una forma de garantizar que la accesibilidad no pueda ser apropiada, cerrada o utilizada en contra de las personas para las que fue creada.
 
 ---
 
-### Estructura del repositorio
+### **¿Qué garantiza la LAU?**
 
-- `es/lau.md` Versión en español (actual: **v1.1**)  
-- `en/lau.md` Traducción al inglés  
-- `version.md` Historial completo de cambios de la LAU  
-- `manifesto.md` Justificación y manifiesto ético que acompaña la licencia  
-- `lau-v1.1.pdf` Versión oficial en PDF para su distribución y validación legal  
-
----
-
-### Licencias complementarias
-
-Este repositorio también declara compatibilidad con:
-
-- [GPLv3 (GNU General Public License)](https://www.gnu.org/licenses/gpl-3.0.html)
-- [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-> La LAU actúa como **licencia primaria**, y las demás solo aplican si no contradicen su texto.
+- El **acceso libre** a herramientas accesibles.
+- El **reconocimiento justo** a quienes desarrollan tecnología inclusiva.
+- El **control ético** sobre usos comerciales.
+- La protección contra la **apropiación corporativa o modelos excluyentes**.
 
 ---
 
-### Licencia de este repositorio
+### **¿A qué se aplica?**
 
-**Este contenido está licenciado bajo la propia Licencia de Accesibilidad Universal (LAU) — Versión 1.1.**  
-Más información oficial en:  
-[https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
+La LAU puede aplicarse a:
+
+- Software y código fuente  
+- Extensiones, aplicaciones y herramientas accesibles  
+- Interfaces y experiencias digitales  
+- Contenido multimedia (subtítulos, TTS, audiodescripción)  
+- Documentación técnica y educativa  
+
+Siempre que estén orientados a la **accesibilidad**.
 
 ---
 
-### Quick Note (English)
+### **Principio central**
 
-This repository contains the **Universal Accessibility License (LAU)** — version 1.1, authored by Katherine Vargas (KathWare).  
-It protects accessible and inclusive creations — software, media, or documents — ensuring **free access**, **fair attribution**, and **ethical oversight**.  
-Available in **Spanish and English**, including full version history and a companion manifesto.
+> La accesibilidad no es un privilegio.  
+> No puede ser restringida, monetizada de forma excluyente ni convertida en una barrera.
 
-> For more, visit: [https://kathware.com.ar/lau/](https://kathware.com.ar/lau/)
+---
+
+### **Compatibilidad**
+
+La LAU es compatible con:
+
+- [GPLv3 (GNU General Public License)](https://www.gnu.org/licenses/gpl-3.0.html)  
+- [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
+
+Siempre que no contradigan sus principios de accesibilidad.
+
+> La LAU actúa como **licencia primaria**.
+
+---
+
+### **Estructura del repositorio**
+
+- `es/lau.md` → Versión en español (**v1.3**)  
+- `en/lau.md` → Versión en inglés  
+- `versions/` → Historial de versiones (v1.0 → v1.3)  
+- `manifesto.md` → Manifiesto ético  
+- `pdf/` → Versiones oficiales exportables  
+
+---
+
+### **Licencia de este repositorio**
+
+Este repositorio está licenciado bajo la propia:
+
+👉 **Licencia de Accesibilidad Universal (LAU) — Versión 1.3**
+
+Más información:  
+https://kathware.com.ar/lau/
+
+---
+
+### **Quick Summary (English)**
+
+This repository contains the **Universal Accessibility License (LAU)** — version **1.3**.
+
+It is designed to protect accessible technologies by ensuring:
+
+- Free access  
+- Fair attribution  
+- Ethical control over commercial use  
+
+It prevents accessible tools from being turned into closed, inaccessible or exploitative systems.
+
+---
+
+### **Why this exists**
+
+Most open licenses protect freedom.  
+LAU also protects **accessibility**.
+
+That difference matters.
