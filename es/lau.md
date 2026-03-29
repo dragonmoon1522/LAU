@@ -1,6 +1,15 @@
 # Licencia de Accesibilidad Universal (LAU)
-**Versión 1.2 – Julio 2025**  
+**Versión 1.3 – Marzo 2026**  
 **Autora:** Katherine Vargas – https://kathware.com.ar
+
+---
+
+## Resumen simple
+
+Podés usar, estudiar, modificar y compartir este software libremente.  
+No podés volverlo inaccesible, cerrarlo ni usarlo con fines comerciales sin acuerdo previo.
+
+Si generás ingresos a partir de este trabajo, debe ser de forma justa, respetando la accesibilidad y la autoría original.
 
 ---
 
@@ -24,6 +33,7 @@ Es compatible con otras licencias como CC-BY, CC-BY-SA o GPL, siempre que no se 
 
 - Uso personal, educativo o comunitario sin fines de lucro.
 - Compartir el contenido con la atribución correspondiente.
+- Mantener el acceso abierto y accesible.
 
 #### Sobre el uso sin fines de lucro
 
@@ -37,7 +47,20 @@ Lo que se restringe no es la sustentabilidad, sino el lucro a costa de la accesi
 ## 2. USO COMERCIAL Y CORPORATIVO
 
 - **2.1.** Cualquier uso con fines comerciales, institucionales o corporativos (incluso sin modificar el código original) requiere el consentimiento previo y por escrito de la autora original, así como una compensación justa acordada previamente.
-- **2.2.** Se considera uso comercial toda forma de integración, distribución o beneficio indirecto del software o sus derivados, incluyendo publicidad, captación de usuarios, monetización de contenidos o ventajas competitivas.
+- **2.2.** Se considera uso comercial toda forma de integración, distribución o beneficio directo o indirecto del software o sus derivados.
+
+### Ejemplos de uso comercial
+
+- Integración en productos pagos o servicios SaaS  
+- Uso en plataformas cerradas o propietarias  
+- Monetización mediante publicidad o suscripciones  
+- Uso como ventaja competitiva en productos o servicios  
+
+### Ejemplos de uso permitido sin autorización
+
+- Proyectos open source accesibles  
+- Uso educativo  
+- Iniciativas comunitarias sin barreras de acceso  
 
 ---
 
@@ -45,6 +68,7 @@ Lo que se restringe no es la sustentabilidad, sino el lucro a costa de la accesi
 
 - **3.1.** Toda modificación pública debe mantener esta licencia, indicar de forma visible la autoría original y especificar claramente los cambios realizados.
 - **3.2.** Las versiones derivadas utilizadas con fines comerciales requieren un nuevo acuerdo explícito con la autora original.
+- **3.3.** Las versiones derivadas no pueden convertirse en software privativo ni introducir barreras de acceso.
 
 ---
 
@@ -65,6 +89,12 @@ La autora no se responsabiliza por daños directos o indirectos derivados de su 
 
 ## 6. COMPROMISO DE ACCESIBILIDAD
 
+Se considera que una implementación viola esta licencia si introduce barreras:
+
+- Económicas (suscripciones obligatorias, acceso pago)
+- Técnicas (DRM, restricciones de uso)
+- De accesibilidad (interfaces no utilizables o incompatibles con tecnologías asistivas)
+
 > La accesibilidad no es un privilegio, sino un derecho.  
 > Este software fue creado para ampliar el acceso a contenidos y experiencias antes inaccesibles.  
 > Su uso debe reflejar ese compromiso y no generar nuevas barreras.
@@ -76,10 +106,11 @@ La autora no se responsabiliza por daños directos o indirectos derivados de su 
 - No se permite uso comercial sin autorización expresa.
 - No se puede revender ni distribuir versiones cerradas del software o sus derivados.
 - No se pueden modificar ni eliminar los créditos originales.
+- No se puede transformar el software en una herramienta inaccesible o excluyente.
 - Cualquier intento de apropiación, comercialización o alteración de esta licencia será considerado un incumplimiento de sus términos.
 
 ---
 
 ### Nota sobre el lenguaje utilizado
 
-Esta licencia utiliza el femenino genérico como forma de visibilizar y reivindicar el trabajo de mujeres, personas trans, no binaries y otras identidades históricamente feminizadas dentro del ámbito de la tecnología y la accesibilidad.
+Esta licencia utiliza el femenino genérico como forma de visibilizar y reivindicar el trabajo de mujeres, personas trans, no binarias y otras identidades históricamente feminizadas dentro del ámbito de la tecnología y la accesibilidad.
